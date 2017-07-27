@@ -9,6 +9,8 @@
     <packaging>pom</packaging>
     <version>1.0</version>
     <modules>
+        <module>demo</module>
+        <module>boot01</module>
         <module>boot02</module>
     </modules>
 
