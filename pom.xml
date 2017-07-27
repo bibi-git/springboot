@@ -12,6 +12,8 @@
         <module>demo</module>
         <module>boot01</module>
         <module>boot02</module>
+        <module>boot03</module>
+        <module>boot04</module>
     </modules>
 
     <parent>

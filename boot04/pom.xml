@@ -9,10 +9,10 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>boot01</artifactId>
+    <artifactId>boot04</artifactId>
 
     <packaging>jar</packaging>
-    <name>boot01</name>
+    <name>boot04</name>
     <description>demo project for Spring Boot</description>
 
 

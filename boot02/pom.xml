@@ -11,6 +11,10 @@
 
     <artifactId>boot02</artifactId>
 
+    <packaging>jar</packaging>
+    <name>boot02</name>
+    <description>demo project for Spring Boot</description>
+
 
     <dependencies>
 
