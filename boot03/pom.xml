@@ -16,4 +16,22 @@
     <description>demo project for Spring Boot</description>
 
 
+    <dependencies>
+
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-thymeleaf</artifactId>
+        </dependency>
+
+
+        <!-- 使用外部tomcat容器 打包war时采用 使用内嵌tomcat屏蔽就行了-->
+        <!--<dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-tomcat</artifactId>
+            <scope>provided</scope>
+        </dependency>-->
+
+    </dependencies>
+
+
 </project>
